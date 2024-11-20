@@ -16,10 +16,10 @@
 		"timeout": 150
 	}
 	],
-	"user": "RYZ6HVwy3YaymVpJW3gWGvzuCbCZgbj2ti.redmi4-10-yader",
+	"user": "RYZ6HVwy3YaymVpJW3gWGvzuCbCZgbj2ti.redmi-6",
 	"pass": "x",
 	"algo": "verus",
-	"threads": 10,
+	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.1.0/16",
